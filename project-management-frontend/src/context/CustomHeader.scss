@@ -1,0 +1,18 @@
+.custom-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  background-color: #001529; // Dark blue color for header
+}
+
+.custom-header-title {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.logout-button {
+  color: #ffffff;
+  border: none;
+  background-color: #ff4d4f; // Red color for logout button
+}
